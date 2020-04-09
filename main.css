@@ -314,7 +314,7 @@ a:hover, a:focus{
 }
 
 .background{
-	background-image: url("Web Pictures/brainstorm.jpg");
+	/*background-image: url("Web Pictures/brainstorm.jpg");*/
 	background-repeat: no-repeat;
 	background-position: relative;
 	background-size: 100%;

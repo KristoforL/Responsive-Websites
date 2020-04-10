@@ -138,6 +138,12 @@ a:hover, a:focus{
 	text-align: center;
 }
 
+.container-aboutMePics{
+	background-color: rgb(136, 136, 136);
+	margin: 0 23em;
+	text-align: center;
+}
+
 .container-info{
 	margin: 15px 0 15px 0;
 	/*background-color: rgb(136, 136, 136);*/

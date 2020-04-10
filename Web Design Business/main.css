@@ -158,7 +158,7 @@ a:hover, a:focus{
 	text-align: center;
 	margin: auto;
     width: 60%;
-	padding: ;
+	/*padding:*/
 }
 
 /* Container Animated Home Pictures */
@@ -313,6 +313,7 @@ a:hover, a:focus{
 /*aboutMe-Container*/
 
 .aboutMe-container{
+
 }
 
 .aboutme-header{
@@ -362,8 +363,8 @@ div>.sideBySide-Each, div>.sideBySide-Each-img{
 
 .sideBySide-Each{
 	display: inline;
-	width:45%;
-	height: 100%;
+	/*width:45%;*/
+	/*height: 100%;*/
 }
 
 div>.grindEach{

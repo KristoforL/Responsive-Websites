@@ -7,3 +7,7 @@ This repository will have have been based and evolved from MY-HTML and will exhi
 This website was created utilizing JavaScript and CSS stylings. Please enjoy and try on multiple devices
 
 https://kristoforl.github.io/Responsive-Websites/
+
+This is approaaching end of life because it has been further evolved and moved to another Repository for online portfolio purposes
+
+https://kristoforl.github.io/OnlinePortfolio/
